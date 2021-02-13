@@ -17,8 +17,11 @@ sections:
     bulletpoints:
       - title: We love plants
         description: >
-          Our Passion for Orchids is a long journey from the hills of Palomar in
-          California. 
+          Our Passion for Orchids is a long journey that stared from the hills
+          of Palomar in California. With our long standing experience in growing
+          great orchids using USDA approved organic plant growth practices, we
+          can deliver the best in quality and color orchids for your various
+          occasions.
         image: images/nan_talk.jpg
       - title: We think plants are the future
         description: >-
